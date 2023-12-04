@@ -34,7 +34,7 @@ class finance:
                 self.finance.contador("Erro, opções disponíveis [1, 2, 3, 0]. Tente novamente em: ")
 
 
-teste
+
 
 
 
